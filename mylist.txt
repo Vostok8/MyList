@@ -132,13 +132,7 @@ amazon.com
 
 #CRYPTO
 bestchange.ru
-001k.exchange
 bestchange.net
-bixter.org
-octopustrade.io
-
-#WORK
-opentext.com
 
 #XXX
 pornhub.ru
