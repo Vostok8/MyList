@@ -104,7 +104,7 @@ rutor.org
 
 #OPEN AI
 openai.com
-chatgpt.com
+
 oaiusercontent.com
 oaistatic.com
 statsig.com
