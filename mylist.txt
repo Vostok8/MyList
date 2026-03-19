@@ -114,7 +114,6 @@ intercom.io
 intercomcdn.com
 stripe.com
 cloudflare.com
-browser-intake-datadoghq.com
 sentry.io
 prodregistryv2.org
 featureassets.org
