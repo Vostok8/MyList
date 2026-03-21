@@ -129,6 +129,7 @@ grok.com
 #WEB
 godaddy.com
 amazon.com
+wordfence.com
 
 #CRYPTO
 bestchange.ru
