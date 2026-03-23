@@ -130,6 +130,7 @@ grok.com
 godaddy.com
 amazon.com
 wordfence.com
+babia.to
 
 #CRYPTO
 bestchange.ru
