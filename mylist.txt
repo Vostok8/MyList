@@ -131,6 +131,7 @@ godaddy.com
 amazon.com
 wordfence.com
 babia.to
+elementor.com
 
 #CRYPTO
 bestchange.ru
